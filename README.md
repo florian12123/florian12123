@@ -1,16 +1,23 @@
-## Hi there 👋
+# AV Scripts
 
-<!--
-**florian12123/florian12123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+FiveM-Ressourcen, Discord-Bots und kleinere Web-Tools — hauptsächlich für deutsche Roleplay-Server.
 
-Here are some ideas to get you started:
+**Florian** · Informatik · Österreich 🇦🇹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech
+
+`Lua` · `JavaScript` · `Python` · `HTML/CSS` · `ESX` · `ox_lib`
+
+---
+
+## Kontakt
+
+- Website: [knocklive.de](https://knocklive.de)
+- Discord: Florian
+- Mail: admin@knocklive.de
+
+---
+
+*Building. Learning. Improving.*
