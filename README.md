@@ -10,10 +10,9 @@ FiveM-Ressourcen, Discord-Bots und kleinere Web-Tools — hauptsächlich für de
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/florian__h.n-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1218130231374778399)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedaaaaaaaaa)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@knocklive)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:admin@knocklive.de)
+[![Discord]](https://discordapp.com/users/1218130231374778399)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@florian_h.n)
+
 
 ---
 
