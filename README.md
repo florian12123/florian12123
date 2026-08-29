@@ -6,7 +6,7 @@ FiveM-Ressourcen, Discord-Bots und kleinere Web-Tools — hauptsächlich für de
 
 🌍 Website → [knocklive.de](https://knocklive.de)  
 📧 Email → admin@knocklive.de
-💬 Discord → (https://discordapp.com/users/1218130231374778399)
+💬 Discord → [Discord](https://discordapp.com/users/1218130231374778399)
 
 ---
 
