@@ -5,8 +5,15 @@ FiveM-Ressourcen, Discord-Bots und kleinere Web-Tools — hauptsächlich für de
 **Florian** · FiveM Developer · Deutsch 🇩🇪
 
 🌍 Website → [knocklive.de](https://knocklive.de)  
-💬 Discord → florian_h.n  
 📧 Email → admin@knocklive.de
+
+## 💬 Discord
+
+**florian_h.n**
+
+[![Discord Profil öffnen](https://img.shields.io/badge/florian__h.n-Discord_Profil-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1218130231374778399)
+
+*Klick → Discord öffnet sich → dein Profil*
 
 *Building. Learning. Improving.*
 
@@ -14,7 +21,7 @@ FiveM-Ressourcen, Discord-Bots und kleinere Web-Tools — hauptsächlich für de
 
 ## 🌐 Socials
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/eRtStSJYFg)
+[![Discord](https://img.shields.io/badge/florian__h.n-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1218130231374778399)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pedaaaaaaaaa)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@knocklive)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:admin@knocklive.de)
