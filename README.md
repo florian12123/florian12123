@@ -6,16 +6,7 @@ FiveM-Ressourcen, Discord-Bots und kleinere Web-Tools — hauptsächlich für de
 
 🌍 Website → [knocklive.de](https://knocklive.de)  
 📧 Email → admin@knocklive.de
-
-## 💬 Discord
-
-**florian_h.n**
-
-[![Discord Profil öffnen](https://img.shields.io/badge/florian__h.n-Discord_Profil-%235865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1218130231374778399)
-
-*Klick → Discord öffnet sich → dein Profil*
-
-*Building. Learning. Improving.*
+💬 Discord → (https://discordapp.com/users/1218130231374778399)
 
 ---
 
