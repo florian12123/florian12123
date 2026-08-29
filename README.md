@@ -5,7 +5,6 @@ FiveM-Ressourcen, Discord-Bots und kleinere Web-Tools — hauptsächlich für de
 **Florian** · FiveM Developer · Deutsch 🇩🇪
 
 🌍 Website → [knocklive.de](https://knocklive.de)  
-📧 Email → admin@knocklive.de
 💬 Discord → [Discord](https://discordapp.com/users/1218130231374778399)
 
 ---
