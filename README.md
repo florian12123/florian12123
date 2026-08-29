@@ -10,7 +10,7 @@ FiveM-Ressourcen, Discord-Bots und kleinere Web-Tools — hauptsächlich für de
 
 ## 🌐 Socials
 
-[![Discord]](https://discordapp.com/users/1218130231374778399)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/1218130231374778399)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@florian_h.n)
 
 
