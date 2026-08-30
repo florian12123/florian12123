@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Florian
 
-FiveM-Ressourcen, Discord-Bots und kleinere Web-Tools — hauptsächlich für deutsche Roleplay-Server.
+FiveM-Ressourcen, Discord-Bots und kleinere Web-Tools — hauptsächlich für FiveM Roleplay-Server.
 
 **Florian** · FiveM Developer · Deutsch 🇩🇪
 
